@@ -70,3 +70,7 @@ Adaptez ensuite les règles à votre façon de travailler : c'est un point de d�
 ## Auteur
 
 Cherchali Mohamed Walid, Lead Backend Developer.
+
+## Licence
+
+[MIT](LICENSE) : libre de copier, modifier et réutiliser, y compris dans un cadre commercial, en gardant la mention de copyright.
